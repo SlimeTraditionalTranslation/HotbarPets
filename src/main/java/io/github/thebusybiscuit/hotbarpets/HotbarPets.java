@@ -23,7 +23,7 @@ import io.github.thebusybiscuit.slimefun4.api.SlimefunAddon;
 import io.github.thebusybiscuit.slimefun4.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.config.Config;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack;
-import io.github.thebusybiscuit.slimefun4.libraries.dough.updater.GitHubBuildsUpdater;
+import io.github.bakedlibs.dough.updater.GitHubBuildsUpdaterTR;
 
 public class HotbarPets extends JavaPlugin implements Listener, SlimefunAddon {
 
@@ -36,8 +36,8 @@ public class HotbarPets extends JavaPlugin implements Listener, SlimefunAddon {
         // Setting up bStats
         new Metrics(this, 4859);
 
-        if (cfg.getBoolean("options.auto-update") && getDescription().getVersion().startsWith("DEV - ")) {
-            new GitHubBuildsUpdater(this, getFile(), "TheBusyBiscuit/HotbarPets/master").start();
+        if (cfg.getBoolean("options.auto-update") && getDescription().getVersion().startsWith("EFI - ")) {
+            new GitHubBuildsUpdaterTR(this, getFile(), "SlimeTraditionalTranslation/HotbarPets/master").start();
         }
 
         itemGroup = new ItemGroup(new NamespacedKey(this, "pets"), new CustomItemStack(PetTexture.CATEGORY.getAsItem(), "${hotbarpets.itemgroup.main}", "", "${hotbarpets.itemgroup.lore}"));

@@ -148,5 +148,11 @@
             <version>3.0.2</version>
             <scope>provided</scope>
         </dependency>
+
+        <dependency>
+            <groupId>com.github.SlimeTraditionalTranslation</groupId>
+            <artifactId>dough</artifactId>
+            <version>02b9258298</version>
+        </dependency>
     </dependencies>
 </project>
