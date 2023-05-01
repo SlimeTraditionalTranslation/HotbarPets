@@ -1,5 +1,12 @@
 # 背包寵物
 
+背包寵物是 Slimefun4 的附加，深受著名的模組 [InventoryPets](https://www.curseforge.com/minecraft/mc-mods/inventory-pets) 所啟發。<br>
+增加了類似「寵物」的物品到黏液科技中。<br>
+如果你將它們放在快捷欄，它們可以防止你受到某些類型的傷害，給你免費物品或是藥水效果。<br>
+但前提是你有攜帶它們喜歡的食物。
+
+[閱讀更多資訊...](https://github.com/TheBusyBiscuit/Slimefun4/wiki/HotbarPets)(此維基頁面已不見)
+
 > 此為**非官方**的黏液科技繁體翻譯版
 > 
 > 請勿在該作者的問題追蹤中回報有關此的任何錯誤！
@@ -7,13 +14,6 @@
 > 如果使用本翻譯遇到錯誤、翻譯用法奇怪或其他等等的問題
 > 
 > 請加入非官方的 [Slimefun 繁體中文版][TraditionalChinese-DiscordLink] Discord 伺服器一起討論！
-
-背包寵物是 Slimefun4 的附加，深受著名的模組 [InventoryPets](https://www.curseforge.com/minecraft/mc-mods/inventory-pets) 所啟發。<br>
-增加了類似「寵物」的物品到黏液科技中。<br>
-如果你將它們放在快捷欄，它們可以防止你受到某些類型的傷害，給你免費物品或是藥水效果。<br>
-但前提是你有攜帶它們喜歡的食物。
-
-[閱讀更多資訊...](https://github.com/TheBusyBiscuit/Slimefun4/wiki/HotbarPets)(此維基頁面已不見)
 
 ## 下載背包寵物
 
