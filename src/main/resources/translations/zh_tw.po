@@ -1,0 +1,459 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: slimetranslations\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-08 17:33+0000\n"
+"PO-Revision-Date: 2023-05-08 17:37\n"
+"Last-Translator: \n"
+"Language-Team: Chinese Traditional\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Crowdin-Project: slimetranslations\n"
+"X-Crowdin-Project-ID: 585775\n"
+"X-Crowdin-Language: zh-TW\n"
+"X-Crowdin-File: /HotbarPets/messages.pot\n"
+"X-Crowdin-File-ID: 2969\n"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/HotbarPet.java:46
+#, java-format
+msgid "&9Your {0} &9would have helped you if you did not neglect it by not feeding it :("
+msgstr "&9如果你沒有忽視餵食{0}&9，那麼它將會幫你 :("
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/HotbarPets.java:68
+msgid "&dHotbar Pets"
+msgstr "&d背包寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/HotbarPets.java:68
+msgid "&a> Click to open"
+msgstr "&a> 點擊開啟"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/BossMobs.java:23
+msgid "&4Boss Mob (Hostile)"
+msgstr "&4Boss 生物寵物（敵對）"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/BossMobs.java:29
+msgid "&5Ender Dragon Pet"
+msgstr "&5終界龍寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/BossMobs.java:29
+msgid "&7Favourite Food: Eyes Of Ender"
+msgstr "&7喜愛食物：終界之眼"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/BossMobs.java:29
+msgid "&fRight-Click: &7Shoots Dragon Fireball & Gives Resistance"
+msgstr "&f右鍵點擊：&7發射龍炎彈和提供給自己抗性"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/BossMobs.java:35
+msgid "&8Wither Pet"
+msgstr "&8凋零怪寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/BossMobs.java:35
+msgid "&7Favourite Food: Soul Sand"
+msgstr "&7喜愛食物：靈魂砂"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/BossMobs.java:35
+msgid "&fImmune to Wither Effect"
+msgstr "&f免疫凋零效果"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:23
+msgid "&2Farm Animal (Peaceful)"
+msgstr "&2農場動物寵物（友善）"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:29
+msgid "&6Cow Pet"
+msgstr "&6牛寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:29
+msgid "&7Favourite Food: Wheat"
+msgstr "&7喜愛食物：小麥"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:29
+msgid "&fRight-Click: &7Removes negative Potion Effects"
+msgstr "&f右鍵點擊：&7移除負面藥水效果"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:31
+msgid "&dPig Pet"
+msgstr "&d豬寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:31
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:43
+msgid "&7Favourite Food: Carrots"
+msgstr "&7喜愛食物：胡蘿蔔"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:31
+msgid "&fBonus Saturation when eating"
+msgstr "&f在你吃食物時獲得額外的飽食度"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:31
+msgid "&fAllows you to eat poisonous Food"
+msgstr "&f與讓你可以吃有毒的食物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:37
+msgid "&fChicken Pet"
+msgstr "&f雞寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:37
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:31
+msgid "&7Favourite Food: Seeds"
+msgstr "&7喜愛食物：種子"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:37
+msgid "&fGives you Eggs over time..."
+msgstr "&f隨著時間給你蛋..."
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:43
+msgid "&dMooshroom Pet"
+msgstr "&d哞菇寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:43
+msgid "&7Favourite Food: Red Mushrooms"
+msgstr "&7喜愛食物：紅色蘑菇"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:43
+msgid "&fGives you Mushroom Stew over time..."
+msgstr "&f隨著時間給你蘑菇湯..."
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:55
+msgid "&6Golden Cow Pet"
+msgstr "&6黃金牛寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:55
+msgid "&7Favourite Food: Golden Carrots"
+msgstr "&7喜愛食物：金胡蘿蔔"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:55
+msgid "&fGives you Golden Ingots over time..."
+msgstr "&f隨著時間給你金錠..."
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:55
+msgid "&f(That means you have a net gain of 1 golden nugget)"
+msgstr "&f（這代表你會有一金粒的淨獲利）"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:28
+msgid "&cMob (Hostile)"
+msgstr "&c生物寵物（敵對）"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:34
+msgid "&8Spider Pet"
+msgstr "&8蜘蛛寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:34
+msgid "&7Favourite Food: Rotten Flesh"
+msgstr "&7喜愛食物：腐肉"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:34
+msgid "&fRight-Click: &7Gives you Jump Boost"
+msgstr "&f右鍵點擊：&7提供跳躍提升效果"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:40
+msgid "&fGhast Pet"
+msgstr "&f地獄幽靈寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:40
+msgid "&7Favourite Food: Fire Charge"
+msgstr "&7喜愛食物：火焰彈"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:40
+msgid "&fRight-Click: &7Launches Fireballs"
+msgstr "&f右鍵點擊：&7發射火球"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:46
+msgid "&dShulker Pet"
+msgstr "&d界伏蚌寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:46
+msgid "&7Favourite Food: Chorus Fruit"
+msgstr "&7喜愛食物：歌萊果"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:46
+msgid "&fRight-Click: &7Shoots arrows tipped with levitation"
+msgstr "&f右鍵點擊：&7發射帶有懸浮的藥水箭"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:52
+msgid "&7Phantom Pet"
+msgstr "&7夜魅寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:52
+msgid "&7Favourite Food: Beetroot"
+msgstr "&7喜愛食物：甜菜根"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:52
+msgid "&fRight-Click: &7Gives Slow Falling"
+msgstr "&f右鍵點擊：&7提供緩降效果"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:58
+msgid "&8Enderman Pet"
+msgstr "&8終界使者寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:58
+msgid "&7Favourite Food: End Stone"
+msgstr "&7喜愛食物：終界石"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:58
+msgid "&fRight-Click: &7Shoots an Ender Pearl"
+msgstr "&f右鍵點擊：&7發射終界珍珠"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:64
+msgid "&2Creeper Pet"
+msgstr "&2苦力怕寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:64
+msgid "&7Favourite Food: Gunpowder"
+msgstr "&7喜愛食物：火藥"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:64
+msgid "&fImmune to Explosions"
+msgstr "&f免疫爆炸傷害"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:64
+msgid "&fRight-Click: &7Explode"
+msgstr "&f右鍵點擊：&7爆炸"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:70
+msgid "&4Magma Cube Pet"
+msgstr "&4岩漿立方怪寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:70
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:76
+msgid "&7Favourite Food: Nether Quartz"
+msgstr "&7喜愛食物：地獄石英"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:70
+msgid "&fImmune to Lava"
+msgstr "&f免疫熔岩"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:70
+msgid "&fQuite hungry"
+msgstr "&f但會更快飢餓"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:76
+msgid "&6Blaze Pet"
+msgstr "&6烈焰使者寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:76
+msgid "&fImmune to Fire"
+msgstr "&f免疫火焰傷害"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:82
+msgid "&2Zombie Pet"
+msgstr "&2殭屍寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:82
+msgid "&fAllows you to eat Rotten Flesh"
+msgstr "&f讓你可以在不獲得飢餓"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:82
+msgid "&fwithout getting Hunger"
+msgstr "&f情況下直接吃腐肉"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PassiveMobs.java:23
+msgid "&eMob (Passive)"
+msgstr "&e生物寵物（中立）"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PassiveMobs.java:29
+msgid "&7Iron Golem Pet"
+msgstr "&7鐵魔像寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PassiveMobs.java:29
+msgid "&7Favourite Food: Iron Ingots"
+msgstr "&7喜愛食物：鐵錠"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PassiveMobs.java:29
+msgid "&fRight-Click: &7Gives you Resistance"
+msgstr "&f右鍵點擊：&7提供抗性效果"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PassiveMobs.java:35
+msgid "&aSlime Pet"
+msgstr "&a史萊姆寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PassiveMobs.java:35
+msgid "&7Favourite Food: Glowstone Dust"
+msgstr "&7喜愛食物：螢石粉"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PassiveMobs.java:35
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:37
+msgid "&fImmune to Fall Damage"
+msgstr "&f免疫摔落傷害"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:25
+msgid "&aAnimal (Peaceful)"
+msgstr "&a動物寵物（友善）"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:31
+msgid "&3Fish Pet"
+msgstr "&3魚寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:31
+msgid "&fGives you Fish over time..."
+msgstr "&f隨著時間給你魚..."
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:37
+msgid "&bSquid Pet"
+msgstr "&b魷魚寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:37
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:49
+msgid "&7Favourite Food: Raw Cod"
+msgstr "&7喜愛食物：生鱈魚"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:37
+msgid "&fRight-Click: &7Gives you Water Breathing"
+msgstr "&f右鍵點擊：&7提供水下呼吸效果"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:43
+msgid "&eRabbit Pet"
+msgstr "&e兔子寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:43
+msgid "&fRight-Click: &7Gives you 30 seconds of Luck"
+msgstr "&f右鍵點擊：&7提供 30 秒的幸運效果"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:49
+msgid "&bDolphin Pet"
+msgstr "&b海豚寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:49
+msgid "&7Favourite Food: Ink Sacks"
+msgstr "&7喜愛食物：墨囊"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:49
+msgid "&fRight-Click: &7Dolphin's Grace"
+msgstr "&f右鍵點擊：&7提供海豚悠游效果"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:55
+msgid "&8Panda &fPet"
+msgstr "&8貓熊&f寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:55
+msgid "&7Favorite Food: Bamboo"
+msgstr "&7喜愛食物：竹子"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:55
+msgid "&fThis sleepy Panda protects you from Insomnia"
+msgstr "&f這隻可愛的困困熊貓將保護你免受於失眠困擾"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:55
+msgid "&fPhantoms will no longer chase you at night"
+msgstr "&f夜魅將不會在晚上追你"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:25
+msgid "&9Special"
+msgstr "&9特殊寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:31
+msgid "&5Purplicious Cow Pet"
+msgstr "&5Purplicious 牛寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:31
+msgid "&7Favourite Food: Golden Apples"
+msgstr "&7喜愛食物：金蘋果"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:31
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:37
+msgid "&fRight-Click: &7Gives you Health Regeneration"
+msgstr "&f右鍵點擊：&7提供血量回復效果"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:37
+msgid "&amrCookieSlime Pet"
+msgstr "&amrCookieSlime 寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:37
+msgid "&7Favourite Food: Cookies"
+msgstr "&7喜愛食物：餅乾"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:43
+msgid "&5Patriot Pet"
+msgstr "&5Patriot 寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:43
+msgid "&7Favourite Food: Nether Wart"
+msgstr "&7喜愛食物：地獄疙瘩"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:43
+msgid "&fGives Resistance, Regeneration, Strength, "
+msgstr "&f提供抗性、回復"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:43
+msgid "&fand Saturation"
+msgstr "&f力量和飽食效果"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:49
+msgid "&bWalshrus Pet"
+msgstr "&bWalshrus 寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:49
+msgid "&fCannot drown"
+msgstr "&f不再溺水"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:55
+msgid "&4Eyamaz Pet"
+msgstr "&4Eyamaz 寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:55
+msgid "&7Favourite Food: Souls"
+msgstr "&7喜愛食物：靈魂"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:55
+msgid "&fBeware! Eyamaz makes a Soul Pie"
+msgstr "&f注意！Eyamaz 將會用你所殺死的"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:55
+msgid "&fout of the Souls of everything you kill"
+msgstr "&f任何生物靈魂來製作靈魂派！"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:24
+msgid "&aUtility (Peaceful)"
+msgstr "&a工具寵物（友善）"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:30
+msgid "&fBed Pet"
+msgstr "&f床寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:30
+msgid "&7Favourite Food: Wool"
+msgstr "&7喜愛食物：羊毛"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:30
+msgid "&fRight-Click: &7Sleep"
+msgstr "&f右鍵點擊：&7來睡覺"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:36
+msgid "&5Ender Chest Pet"
+msgstr "&5終界箱寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:36
+msgid "&7Favourite Food: Ender Pearls"
+msgstr "&7喜愛食物：終界珍珠"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:36
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:42
+msgid "&fRight-Click: &7Open"
+msgstr "&f右鍵點擊：&7開啟"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:42
+msgid "&6Workbench Pet"
+msgstr "&6工作台寵物"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:42
+msgid "&7Favourite Food: Wooden Planks"
+msgstr "&7喜愛食物：木材"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/listeners/DamageListener.java:65
+msgid "&9Your &4Magma Cube Pet &9would have helped you if you did not neglect it by not feeding it :("
+msgstr "&9如果你沒有忽視餵食&4岩漿立方怪寵物&9，那麼它將會幫你 :("
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/listeners/FoodListener.java:42
+msgid "&9Your &5Pig Pet &9would have helped you if you did not neglect it by not feeding it :("
+msgstr "&9如果你沒有忽視餵食&5豬寵物&9，那麼它將會幫你 :("
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/listeners/SoulPieListener.java:36
+msgid "&bSoul Pie"
+msgstr "&b靈魂派"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/listeners/TNTListener.java:45
+msgid "You cannot harm Players in here!"
+msgstr "你不能在這裡傷害玩家！"
+

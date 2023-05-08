@@ -1,0 +1,463 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-08 10:12+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/HotbarPet.java:46
+#, java-format
+msgid ""
+"Your {0} would have helped you if you did not neglect it by not feeding it :("
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/HotbarPets.java:68
+msgid "&dHotbar Pets"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/HotbarPets.java:68
+msgid "&a> Click to open"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/BossMobs.java:23
+msgid "&4Boss Mob (Hostile)"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/BossMobs.java:29
+msgid "&5Ender Dragon Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/BossMobs.java:29
+msgid "&7Favourite Food: Eyes Of Ender"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/BossMobs.java:29
+msgid "&fRight-Click: &7Shoots Dragon Fireball & Gives Resistance"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/BossMobs.java:35
+msgid "&8Wither Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/BossMobs.java:35
+msgid "&7Favourite Food: Soul Sand"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/BossMobs.java:35
+msgid "&fImmune to Wither Effect"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:23
+msgid "&2Farm Animal (Peaceful)"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:29
+msgid "&6Cow Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:29
+msgid "&7Favourite Food: Wheat"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:29
+msgid "&fRight-Click: &7Removes negative Potion Effects"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:31
+msgid "&dPig Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:31
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:43
+msgid "&7Favourite Food: Carrots"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:31
+msgid "&fBonus Saturation when eating"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:31
+msgid "&fAllows you to eat poisonous Food"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:37
+msgid "&fChicken Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:37
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:31
+msgid "&7Favourite Food: Seeds"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:37
+msgid "&fGives you Eggs over time..."
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:43
+msgid "&dMooshroom Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:43
+msgid "&7Favourite Food: Red Mushrooms"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:43
+msgid "&fGives you Mushroom Stew over time..."
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:55
+msgid "&6Golden Cow Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:55
+msgid "&7Favourite Food: Golden Carrots"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:55
+msgid "&fGives you Golden Ingots over time..."
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/FarmAnimals.java:55
+msgid "&f(That means you have a net gain of 1 golden nugget)"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:28
+msgid "&cMob (Hostile)"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:34
+msgid "&8Spider Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:34
+msgid "&7Favourite Food: Rotten Flesh"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:34
+msgid "&fRight-Click: &7Gives you Jump Boost"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:40
+msgid "&fGhast Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:40
+msgid "&7Favourite Food: Fire Charge"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:40
+msgid "&fRight-Click: &7Launches Fireballs"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:46
+msgid "&dShulker Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:46
+msgid "&7Favourite Food: Chorus Fruit"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:46
+msgid "&fRight-Click: &7Shoots arrows tipped with levitation"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:52
+msgid "&7Phantom Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:52
+msgid "&7Favourite Food: Beetroot"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:52
+msgid "&fRight-Click: &7Gives Slow Falling"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:58
+msgid "&8Enderman Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:58
+msgid "&7Favourite Food: End Stone"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:58
+msgid "&fRight-Click: &7Shoots an Ender Pearl"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:64
+msgid "&2Creeper Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:64
+msgid "&7Favourite Food: Gunpowder"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:64
+msgid "&fImmune to Explosions"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:64
+msgid "&fRight-Click: &7Explode"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:70
+msgid "&4Magma Cube Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:70
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:76
+msgid "&7Favourite Food: Nether Quartz"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:70
+msgid "&fImmune to Lava"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:70
+msgid "&fQuite hungry"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:76
+msgid "&6Blaze Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:76
+msgid "&fImmune to Fire"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:82
+msgid "&2Zombie Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:82
+msgid "&fAllows you to eat Rotten Flesh"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/HostileMobs.java:82
+msgid "&fwithout getting Hunger"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PassiveMobs.java:23
+msgid "&eMob (Passive)"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PassiveMobs.java:29
+msgid "&7Iron Golem Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PassiveMobs.java:29
+msgid "&7Favourite Food: Iron Ingots"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PassiveMobs.java:29
+msgid "&fRight-Click: &7Gives you Resistance"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PassiveMobs.java:35
+msgid "&aSlime Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PassiveMobs.java:35
+msgid "&7Favourite Food: Glowstone Dust"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PassiveMobs.java:35
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:37
+msgid "&fImmune to Fall Damage"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:25
+msgid "&aAnimal (Peaceful)"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:31
+msgid "&3Fish Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:31
+msgid "&fGives you Fish over time..."
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:37
+msgid "&bSquid Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:37
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:49
+msgid "&7Favourite Food: Raw Cod"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:37
+msgid "&fRight-Click: &7Gives you Water Breathing"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:43
+msgid "&eRabbit Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:43
+msgid "&fRight-Click: &7Gives you 30 seconds of Luck"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:49
+msgid "&bDolphin Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:49
+msgid "&7Favourite Food: Ink Sacks"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:49
+msgid "&fRight-Click: &7Dolphin's Grace"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:55
+msgid "&8Panda &fPet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:55
+msgid "&7Favorite Food: Bamboo"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:55
+msgid "&fThis sleepy Panda protects you from Insomnia"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/PeacefulAnimals.java:55
+msgid "&fPhantoms will no longer chase you at night"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:25
+msgid "&9Special"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:31
+msgid "&5Purplicious Cow Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:31
+msgid "&7Favourite Food: Golden Apples"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:31
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:37
+msgid "&fRight-Click: &7Gives you Health Regeneration"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:37
+msgid "&amrCookieSlime Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:37
+msgid "&7Favourite Food: Cookies"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:43
+msgid "&5Patriot Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:43
+msgid "&7Favourite Food: Nether Wart"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:43
+msgid "&fGives Resistance, Regeneration, Strength, "
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:43
+msgid "&fand Saturation"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:49
+msgid "&bWalshrus Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:49
+msgid "&fCannot drown"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:55
+msgid "&4Eyamaz Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:55
+msgid "&7Favourite Food: Souls"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:55
+msgid "&fBeware! Eyamaz makes a Soul Pie"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/SpecialPets.java:55
+msgid "&fout of the Souls of everything you kill"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:24
+msgid "&aUtility (Peaceful)"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:30
+msgid "&fBed Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:30
+msgid "&7Favourite Food: Wool"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:30
+msgid "&fRight-Click: &7Sleep"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:36
+msgid "&5Ender Chest Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:36
+msgid "&7Favourite Food: Ender Pearls"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:36
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:42
+msgid "&fRight-Click: &7Open"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:42
+msgid "&6Workbench Pet"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/groups/UtilityPets.java:42
+msgid "&7Favourite Food: Wooden Planks"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/listeners/DamageListener.java:65
+msgid ""
+"&9Your &4Magma Cube Pet &9would have helped you if you did not neglect it by "
+"not feeding it :("
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/listeners/FoodListener.java:42
+msgid ""
+"&9Your &5Pig Pet &9would have helped you if you did not neglect it by not "
+"feeding it :("
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/listeners/SoulPieListener.java:36
+msgid "&bSoul Pie"
+msgstr ""
+
+#: src/main/java/io/github/thebusybiscuit/hotbarpets/listeners/TNTListener.java:45
+msgid "You cannot harm Players in here!"
+msgstr ""

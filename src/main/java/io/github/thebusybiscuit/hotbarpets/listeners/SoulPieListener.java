@@ -12,6 +12,7 @@ import io.github.thebusybiscuit.hotbarpets.HotbarPets;
 import io.github.thebusybiscuit.slimefun4.utils.SlimefunUtils;
 import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun4.libraries.dough.items.CustomItemStack;
+import org.mini2Dx.gettext.GetText;
 
 public class SoulPieListener implements Listener {
 
@@ -32,7 +33,7 @@ public class SoulPieListener implements Listener {
                 ItemStack item = p.getInventory().getItem(i);
 
                 if (eyamaz != null && SlimefunUtils.isItemSimilar(item, eyamaz.getItem(), true)) {
-                    e.getEntity().getLocation().getWorld().dropItemNaturally(e.getEntity().getLocation(), new CustomItemStack(new ItemStack(Material.PUMPKIN_PIE), "${hotbarpets.hotbar_pet_eyamaz.dropitem}"));
+                    e.getEntity().getLocation().getWorld().dropItemNaturally(e.getEntity().getLocation(), new CustomItemStack(new ItemStack(Material.PUMPKIN_PIE), GetText.tr("&bSoul Pie")));
                 }
             }
         }

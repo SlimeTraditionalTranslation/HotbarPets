@@ -10,6 +10,7 @@ import io.github.thebusybiscuit.hotbarpets.PetTexture;
 import io.github.thebusybiscuit.hotbarpets.pets.EnderDragonPet;
 import io.github.thebusybiscuit.slimefun4.implementation.SlimefunItems;
 import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
+import org.mini2Dx.gettext.GetText;
 
 public final class BossMobs implements PetGroup {
 
@@ -19,19 +20,19 @@ public final class BossMobs implements PetGroup {
 
     @Override
     public String getName() {
-        return "${hotbarpets.itemgroup.bossmob.hostile}";
+        return GetText.tr("&4Boss Mob (Hostile)");
     }
 
     @Override
     public void load(HotbarPets plugin) {
         // @formatter:off
-        new EnderDragonPet(plugin.getItemGroup(), new SlimefunItemStack("HOTBAR_PET_DRAGON", Material.DRAGON_HEAD, "${hotbarpets.hotbar_pet_dragon.name}", getName(), "${hotbarpets.hotbar_pet_dragon.lore.01}", "", "${hotbarpets.hotbar_pet_dragon.lore.02}"), new ItemStack(Material.ENDER_EYE), new ItemStack[]{
+        new EnderDragonPet(plugin.getItemGroup(), new SlimefunItemStack("HOTBAR_PET_DRAGON", Material.DRAGON_HEAD, GetText.tr("&5Ender Dragon Pet"), getName(), GetText.tr("&7Favourite Food: Eyes Of Ender"), "", GetText.tr("&fRight-Click: &7Shoots Dragon Fireball & Gives Resistance")), new ItemStack(Material.ENDER_EYE), new ItemStack[]{
                 new ItemStack(Material.PRISMARINE_CRYSTALS), new ItemStack(Material.DRAGON_BREATH), new ItemStack(Material.PRISMARINE_CRYSTALS),
                 SlimefunItems.ENDER_LUMP_3, new ItemStack(Material.DRAGON_HEAD), SlimefunItems.ENDER_LUMP_3,
                 new ItemStack(Material.PRISMARINE_CRYSTALS), new ItemStack(Material.DRAGON_BREATH), new ItemStack(Material.PRISMARINE_CRYSTALS)
         }).register(plugin);
 
-        new HotbarPet(plugin.getItemGroup(), new SlimefunItemStack("HOTBAR_PET_WITHER", PetTexture.WITHER_PET.getHash(), "${hotbarpets.hotbar_pet_wither.name}", getName(), "${hotbarpets.hotbar_pet_wither.lore.01}", "", "${hotbarpets.hotbar_pet_wither.lore.02}"), new ItemStack(Material.SOUL_SAND), new ItemStack[]{
+        new HotbarPet(plugin.getItemGroup(), new SlimefunItemStack("HOTBAR_PET_WITHER", PetTexture.WITHER_PET.getHash(), GetText.tr("&8Wither Pet"), getName(), GetText.tr("&7Favourite Food: Soul Sand"), "", GetText.tr("&fImmune to Wither Effect")), new ItemStack(Material.SOUL_SAND), new ItemStack[]{
                 new ItemStack(Material.COAL), new ItemStack(Material.WITHER_SKELETON_SKULL), new ItemStack(Material.COAL),
                 new ItemStack(Material.SOUL_SAND), new ItemStack(Material.NETHER_STAR), new ItemStack(Material.SOUL_SAND),
                 new ItemStack(Material.SOUL_SAND), SlimefunItems.GOLD_24K, new ItemStack(Material.SOUL_SAND)

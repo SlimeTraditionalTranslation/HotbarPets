@@ -12,6 +12,7 @@ import io.github.thebusybiscuit.slimefun4.api.items.ItemGroup;
 import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
 import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItemStack;
 import io.github.thebusybiscuit.slimefun4.api.recipes.RecipeType;
+import org.mini2Dx.gettext.GetText;
 
 public class HotbarPet extends SlimefunItem {
 
@@ -42,7 +43,7 @@ public class HotbarPet extends SlimefunItem {
     public boolean checkAndConsumeFood(Player player) {
         if (!player.getInventory().containsAtLeast(getFavouriteFood(), 1)) {
             if (messageDelay.getOrDefault(player.getUniqueId(), 0L) <= System.currentTimeMillis()) {
-                player.sendMessage(ChatColor.BLUE + "${hotbarpets.feedfood.message.01}" + getItemName() + ChatColor.BLUE + "${hotbarpets.feedfood.message.02}");
+                player.sendMessage(ChatColor.translateAlternateColorCodes('&', GetText.tr("&9Your {0} &9would have helped you if you did not neglect it by not feeding it :(", getItemName())));
                 messageDelay.put(player.getUniqueId(), System.currentTimeMillis() + MESSAGE_DELAY);
             }
 

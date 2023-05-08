@@ -43,6 +43,7 @@
                 <filtering>true</filtering>
                 <includes>
                     <include>*</include>
+                    <include>translations/*.po</include>
                 </includes>
             </resource>
             <resource>
@@ -90,27 +91,6 @@
                     </execution>
                 </executions>
             </plugin>
-
-            <plugin>
-                <groupId>org.codehaus.mojo</groupId>
-                <artifactId>exec-maven-plugin</artifactId>
-                <version>3.1.0</version>
-                <executions>
-                    <execution>
-                        <id>translate-replace</id>
-                        <goals>
-                            <goal>exec</goal>
-                        </goals>
-                        <phase>generate-sources</phase>
-                        <configuration>
-                            <executable>python</executable>
-                            <arguments>
-                                <argument>${basedir}/src/main/translations/replacer.py</argument>
-                            </arguments>
-                        </configuration>
-                    </execution>
-                </executions>
-            </plugin>
         </plugins>
     </build>
 
@@ -153,6 +133,12 @@
             <groupId>com.github.SlimeTraditionalTranslation</groupId>
             <artifactId>dough</artifactId>
             <version>02b9258298</version>
+        </dependency>
+
+        <dependency>
+            <groupId>org.mini2Dx</groupId>
+            <artifactId>gettext-lib</artifactId>
+            <version>1.11.0</version>
         </dependency>
     </dependencies>
 </project>

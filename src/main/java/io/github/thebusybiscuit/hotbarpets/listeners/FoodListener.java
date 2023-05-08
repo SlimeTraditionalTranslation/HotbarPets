@@ -14,6 +14,7 @@ import io.github.thebusybiscuit.hotbarpets.HotbarPet;
 import io.github.thebusybiscuit.hotbarpets.HotbarPets;
 import io.github.thebusybiscuit.slimefun4.utils.SlimefunUtils;
 import io.github.thebusybiscuit.slimefun4.api.items.SlimefunItem;
+import org.mini2Dx.gettext.GetText;
 
 public class FoodListener implements Listener {
 
@@ -38,7 +39,7 @@ public class FoodListener implements Listener {
             if (pig != null && SlimefunUtils.isItemSimilar(item, pig.getItem(), true)) {
 
                 if (!p.getInventory().containsAtLeast(pig.getFavouriteFood(), 1)) {
-                    p.sendMessage(ChatColor.translateAlternateColorCodes('&', "${hotbarpets.feedfood.message.03}"));
+                    p.sendMessage(ChatColor.translateAlternateColorCodes('&', GetText.tr("&9Your &5Pig Pet &9would have helped you if you did not neglect it by not feeding it :(")));
                     return;
                 }
 
